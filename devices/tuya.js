@@ -164,6 +164,8 @@ module.exports = [
             {modelID: 'TS0202', manufacturerName: '_TYZB01_dl7cejts'},
             {modelID: 'TS0202', manufacturerName: '_TYZB01_qjqgmqxr'},
             {modelID: 'TS0202', manufacturerName: '_TZ3000_mmtwjmaq'},
+            {modelID: 'TS0202', manufacturerName: '_TZ3000_mcxw5ehu'},
+            {modelID: 'TS0202', manufacturerName: '_TYZB01_hqbdru35'},
             {modelID: 'WHD02', manufacturerName: '_TZ3000_hktqahrq'}],
         model: 'TS0202',
         vendor: 'TuYa',
@@ -1253,7 +1255,7 @@ module.exports = [
         },
     },
     {
-        fingerprint: [{modelID: 'TS0012', manufacturerName: '_TZ3000_jl7qyupf'}],
+        fingerprint: [{modelID: 'TS0012', manufacturerName: '_TZ3000_jl7qyupf'}, {modelID: 'TS0012', manufacturerName: '_TZ3000_nPGIPl5D'}],
         model: 'TS0012_switch_module',
         vendor: 'TuYa',
         description: '2 gang switch module - (without neutral)',
